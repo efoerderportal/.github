@@ -25,12 +25,6 @@ Umsetzung, Projektabschluss und Auszahlung.
 | **Sachbearbeitungsportal** | Für das Förderteam: eine vollständige digitale Akte pro Gesuch, Arbeitsvorrat nach Frist, Freigaben im Vier-Augen-Prinzip. |
 | **Insights-Portal** | Für Kanton und Gemeinden: lesender Blick auf Mengen, Durchlaufzeiten und Mittel je Förderprogramm. |
 
-## Bausteine
-
-Zitadel (Identity) · Python / FastAPI (Backend) · Flowable (Workflow) ·
-PostgreSQL · eigener Dokumentenspeicher · React-Frontends — betrieben als
-Container-Stack in einem Schweizer Rechenzentrum. Die Daten verlassen die
-Schweiz nicht.
 
 ## Status
 
